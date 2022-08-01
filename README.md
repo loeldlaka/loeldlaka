@@ -1,7 +1,7 @@
 - # sobre mim 
 - ## eu sou o Leonardo 
 - ### meu email e [Leonardo.decarvalho.lima@escola.pr.gov.br](Leonardo.decarvalho.lima@escola.pr.gov.br)
-- 💞️ I’m looking to collaborate on ...
+- #### 
 - 📫 How to reach me ...
 
 <!---
